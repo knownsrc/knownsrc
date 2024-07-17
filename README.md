@@ -5,14 +5,12 @@ import perk.py
 from perk.py import FlashRaider.Soon
 
 ---------------------------------------------
-
-[github](https://github.com/knownsrc)
-[tiktok](https://tiktok.com/@voidedveins)
 ```
+
 &zwnj; 
 &zwnj; 
 ![](https://komarev.com/ghpvc/?username=knownsrc)
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@knownsrc?theme=gelbooru"  alt=""/>
+  <img src="https://count.getloli.com/get/@knownsrc?theme=asoul"  alt=""/>
 </p>
