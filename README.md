@@ -1,9 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=veins.dev+%7C+voidedveins)](https://git.io/typing-svg)
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red_star.svg/220px-Red_star.svg.png" width="147"/> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&lines=perk+%7C+@voidedveins)](https://git.io/typing-svg)
 
-```csharp
-github.com/knownsrc
-dc   $  @turninpale
+```python
+import perk.py
+from perk.py import FlashRaider.Soon
+
+---------------------------------------------
+
+[github](https://github.com/knownsrc)
+[tiktok](https://tiktok.com/@voidedveins)
 ```
 &zwnj; 
 &zwnj; 
