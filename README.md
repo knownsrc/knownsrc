@@ -4,7 +4,7 @@
 
 ```python
 import perk.py
-from perk.py import FlashRaider.Soon
+from perk.py import discord
 
 ---------------------------------------------
 ```
